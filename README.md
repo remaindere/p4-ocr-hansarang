@@ -30,9 +30,10 @@
 
 ## Demo
 
-[[Click here!]Demo link](http://remaindere.asuscomm.com:8501/)
+~~[[Click here!]Demo link]~~(http://remaindere.asuscomm.com:8501/)
+현재는 데모 서비스를 지원하지 않습니다.
 
-아래의 링크에서 Demo의 자세한 사항을 확인하실 수 있습니다.
+아래의 링크에서 Demo의 세부 사항을 확인하실 수 있습니다.
 
 * [streamlit_test](https://github.com/bcaitech1/p4-ocr-hansarang/tree/main/streamlit_test)
 
